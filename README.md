@@ -12,6 +12,9 @@ One class is linearly separaly from the other 2;the latter are NOT linearly sepa
 
 The predicted attribute (the output) is the class of iris plant.
 
+
+
+
 #Features Information
 
 1.sepal length in cm
