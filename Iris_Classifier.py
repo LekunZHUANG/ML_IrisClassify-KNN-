@@ -1,5 +1,5 @@
 """
-Title:A classify machine of a dating website
+Title:A classify machine for the flowers iris
 Author: Lekun ZHUANG
 github:https://github.com/LekunZHUANG
 """
